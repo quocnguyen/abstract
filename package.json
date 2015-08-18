@@ -1,7 +1,7 @@
 {
   "name": "abstract-function",
   "version": "1.0.0",
-  "description": "interface/abstract function that does nothing except throw an error when called. Usefull for programing to interface style",
+  "description": "interface/abstract function that does nothing except throw an error when called. Useful for programing to interface style",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
