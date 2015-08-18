@@ -1,0 +1,28 @@
+{
+  "name": "abstract-function",
+  "version": "1.0.0",
+  "description": "interface/abstract function that does nothing except throw an error when called. Usefull for programing to interface style",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/quocnguyen/abstract.git"
+  },
+  "keywords": [
+    "asbtract",
+    "function",
+    "interface",
+    "function"
+  ],
+  "author": "quocnguyen@clgt.vn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quocnguyen/abstract/issues"
+  },
+  "homepage": "https://github.com/quocnguyen/abstract#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
